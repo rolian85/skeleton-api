@@ -1,0 +1,3 @@
+#!/usr/bin/env php
+<?php
+include(__DIR__ . '/../../vendor/bin/doctrine.php');

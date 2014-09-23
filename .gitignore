@@ -1,0 +1,6 @@
+/.idea/
+/vendor/*
+/config/local.php
+/data/Proxy/*
+!/data/Proxy/.placeholder
+*.DS_Store
